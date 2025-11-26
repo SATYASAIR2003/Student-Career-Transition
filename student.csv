@@ -1,0 +1,301 @@
+Student_ID,Full_Name,Gender,State,College_Type
+STU1000,Anil Prasad,Male,Telangana,Autonomous
+STU1001,Manish Patel,Male,West Bengal,Government
+STU1002,Vishal Naidu,Male,Maharashtra,Government
+STU1003,Lakshmi Singh,Female,Telangana,Autonomous
+STU1004,Aditya Desai,Female,Punjab,Private
+STU1005,Sakshi Sharma,Female,Andhra Pradesh,Autonomous
+STU1006,Anil Naidu,Male,Tamil Nadu,Government
+STU1007,Sai Singh,Male,Karnataka,Autonomous
+STU1008,Sakshi Reddy,Female,Punjab,Autonomous
+STU1009,Surya Reddy,Male,Andhra Pradesh,Government
+STU1010,Anila Reddy,Female,Gujarat,Private
+STU1011,Amit Prasad,Male,Telangana,Government
+STU1012,Anil Naidu,Male,Delhi,Private
+STU1013,Divya Reddy,Male,Kerala,Autonomous
+STU1014,Karthik Menon,Male,Kerala,Government
+STU1015,Anil Nair,Female,Maharashtra,Government
+STU1016,Ananya Nair,Female,Telangana,Private
+STU1017,Anila Menon,Female,Punjab,Private
+STU1018,Isha Patel,Female,Delhi,Government
+STU1019,Shreya Varma,Female,Andhra Pradesh,Autonomous
+STU1020,Harsh Menon,Male,Maharashtra,Government
+STU1021,Vishal Reddy,Male,Karnataka,Autonomous
+STU1022,Priya Gupta,Female,Kerala,Autonomous
+STU1023,Deepa Desai,Female,West Bengal,Autonomous
+STU1024,Priya Rao,Female,Kerala,Autonomous
+STU1025,Aditya Das,Male,West Bengal,Private
+STU1026,Deepa Joshi,Female,Karnataka,Private
+STU1027,Aishwarya Nair,Female,Delhi,Government
+STU1028,Pooja Desai,Female,Maharashtra,Private
+STU1029,Harsh Patel,Male,West Bengal,Government
+STU1030,Pranavi Joshi,Female,Delhi,Government
+STU1031,Venkatesh Rao,Male,Karnataka,Autonomous
+STU1032,Anil Varma,Male,Punjab,Government
+STU1033,Pranav Patel,Male,Karnataka,Private
+STU1034,Aishwarya Prasad,Female,Tamil Nadu,Private
+STU1035,Lakshmi Reddy,Female,Andhra Pradesh,Government
+STU1036,Priya Desai,Female,Gujarat,Autonomous
+STU1037,Harshini Patel,Female,Andhra Pradesh,Government
+STU1038,Amit Varma,Male,Karnataka,Government
+STU1039,Vishal Naidu,Male,Punjab,Private
+STU1040,Rahul Kumar,Male,Maharashtra,Private
+STU1041,Lakshmi Prasad,Female,Andhra Pradesh,Autonomous
+STU1042,Meera Das,Male,Maharashtra,Private
+STU1043,Sai Naidu,Male,Andhra Pradesh,Government
+STU1044,Aditya Iyer,Female,Gujarat,Private
+STU1045,Amit Reddy,Male,Kerala,Private
+STU1046,Meera Kumar,Female,Telangana,Private
+STU1047,Siddharth Naidu,Female,Karnataka,Private
+STU1048,Kunal Naidu,Female,Punjab,Autonomous
+STU1049,Meera Nair,Male,Karnataka,Private
+STU1050,Pranav Sharma,Female,Gujarat,Government
+STU1051,Siddharth Naidu,Male,Delhi,Private
+STU1052,Neha Singh,Male,Andhra Pradesh,Autonomous
+STU1053,Neha Rao,Male,Tamil Nadu,Autonomous
+STU1054,Lakshmi Varma,Female,Kerala,Autonomous
+STU1055,Pooja Naidu,Female,Telangana,Government
+STU1056,Amit Varma,Male,Andhra Pradesh,Government
+STU1057,Priya Nair,Male,Karnataka,Private
+STU1058,Divya Menon,Female,Punjab,Government
+STU1059,Amit Prasad,Male,Gujarat,Government
+STU1060,Priya Das,Male,Maharashtra,Private
+STU1061,Pranav Iyer,Female,Delhi,Government
+STU1062,Manish Rao,Male,Telangana,Private
+STU1063,Surya Singh,Male,West Bengal,Private
+STU1064,Aishwarya Rao,Female,Telangana,Government
+STU1065,Divya Nair,Female,Punjab,Government
+STU1066,Lakshmi Naidu,Female,Tamil Nadu,Private
+STU1067,Manisha Nair,Female,Gujarat,Government
+STU1068,Harsh Reddy,Male,Telangana,Private
+STU1069,Ananya Varma,Female,West Bengal,Government
+STU1070,Neha Patel,Female,West Bengal,Autonomous
+STU1071,Aarav Iyer,Male,Andhra Pradesh,Government
+STU1072,Priya Desai,Female,Gujarat,Autonomous
+STU1073,Pranav Patel,Male,Tamil Nadu,Government
+STU1074,Siddharth Nair,Male,Karnataka,Private
+STU1075,Anil Joshi,Male,Kerala,Autonomous
+STU1076,Ananya Varma,Female,Kerala,Autonomous
+STU1077,Kunal Nair,Female,Maharashtra,Private
+STU1078,Vishal Rao,Male,Gujarat,Autonomous
+STU1079,Neha Rao,Female,Maharashtra,Government
+STU1080,Surya Gupta,Male,Maharashtra,Private
+STU1081,Neha Das,Female,Delhi,Autonomous
+STU1082,Venkatesh Patel,Male,Kerala,Government
+STU1083,Neha Rao,Female,Karnataka,Autonomous
+STU1084,Venkatesh Reddy,Male,Telangana,Private
+STU1085,Nikhil Reddy,Male,Karnataka,Government
+STU1086,Kavya Kumar,Female,Tamil Nadu,Government
+STU1087,Kavya Reddy,Female,West Bengal,Government
+STU1088,Divya Sharma,Female,Telangana,Private
+STU1089,Harshini Patel,Female,Tamil Nadu,Government
+STU1090,Kavya Varma,Female,Telangana,Government
+STU1091,Sai ,Male,Tamil Nadu,Private
+STU1092,Aaravi,Female,Delhi,Autonomous
+STU1093,Nikhil Prasad,Male,Delhi,Autonomous
+STU1094,Manish Reddy,Male,Maharashtra,Autonomous
+STU1095,Sakshi Rao,Female,Gujarat,Autonomous
+STU1096,Shreya Rao,Female,Telangana,Autonomous
+STU1097,Aarav Sharma,Female,Punjab,Private
+STU1098,Priya Desai,Female,Maharashtra,Autonomous
+STU1099,Aaravi Sharma,Female,Karnataka,Private
+STU1100,Nikhil Iyer,Male,Delhi,Private
+STU1101,Priya Menon,Female,Kerala,Government
+STU1102,Aarav Desai,Male,Delhi,Government
+STU1103,Aishwarya Gupta,Female,Kerala,Government
+STU1104,Rohit Singh,Male,Telangana,Private
+STU1105,Nikhil Patel,Male,Telangana,Autonomous
+STU1106,Anila Naidu,Female,Tamil Nadu,Autonomous
+STU1107,Sakshi Iyer,Female,Kerala,Private
+STU1108,Kavya Das,Female,West Bengal,Government
+STU1109,Vishal Joshi,Female,Andhra Pradesh,Government
+STU1110,Sai Das,Female,Karnataka,Private
+STU1111,Amit Prasad,Male,Maharashtra,Government
+STU1112,Ananya Varma,Male,Tamil Nadu,Private
+STU1113,Pooja Varma,Male,Telangana,Government
+STU1114,Pranav Kumar,Female,Karnataka,Private
+STU1115,Deepa Reddy,Male,Maharashtra,Autonomous
+STU1116,Sai Joshi,Male,Gujarat,Autonomous
+STU1117,Amit Joshi,Male,Punjab,Autonomous
+STU1118,Priya Rao,Female,Andhra Pradesh,Private
+STU1119,Aditya Sharma,Female,Kerala,Government
+STU1120,Pooja Gupta,Male,Kerala,Government
+STU1121,Sai Rao,Female,Tamil Nadu,Government
+STU1122,Meera Desai,Male,Andhra Pradesh,Government
+STU1123,Deepa Nair,Male,Gujarat,Government
+STU1124,Ananya Singh,Female,Delhi,Autonomous
+STU1125,Isha Reddy,Male,Punjab,Private
+STU1126,Anil Naidu,Female,Punjab,Government
+STU1127,Isha Rao,Male,Karnataka,Private
+STU1128,Vishal Reddy,Male,Telangana,Government
+STU1129,Lakshmi Kumar,Female,Delhi,Private
+STU1130,Shreya ,Female,Telangana,Private
+STU1131,Isha Reddy,Female,Tamil Nadu,Private
+STU1132,Venkatesh Nair,Male,Telangana,Private
+STU1133,Aarav Naidu,Male,Andhra Pradesh,Autonomous
+STU1134,Ananya Patel,Female,Andhra Pradesh,Private
+STU1135,Divya Joshi,Female,Karnataka,Government
+STU1136,Lakshmi Kumar,Male,Tamil Nadu,Autonomous
+STU1137,Pranav Gupta,Female,Karnataka,Autonomous
+STU1138,Ananya Varma,Male,Gujarat,Private
+STU1139,Ananya Joshi,Male,Maharashtra,Government
+STU1140,Shreya Nair,Male,Telangana,Private
+STU1141,Amit Patel,Male,West Bengal,Private
+STU1142,Aishwarya Kumar,Female,West Bengal,Private
+STU1143,Nikhil Das,Male,Kerala,Government
+STU1144,Aditya Singh,Male,Telangana,Private
+STU1145,Harsh Varma,Male,Andhra Pradesh,Government
+STU1146,Kavya Kumar,Female,Telangana,Private
+STU1147,Rahul Joshi,Male,Karnataka,Private
+STU1148,Divya Nair,Male,Delhi,Private
+STU1149,Aarav Iyer,Female,Tamil Nadu,Private
+STU1150,Aishwarya Prasad,Male,Telangana,Government
+STU1151,Kunal Varma,Female,Maharashtra,Private
+STU1152,Manish Joshi,Male,Telangana,Autonomous
+STU1153,Harsh Gupta,Female,Andhra Pradesh,Government
+STU1154,Shreya Joshi,Male,Delhi,Government
+STU1155,Sai Menon,Male,Andhra Pradesh,Autonomous
+STU1156,Aishwarya Varma,Female,Tamil Nadu,Autonomous
+STU1157,Pooja Kumar,Male,West Bengal,Government
+STU1158,Sai Iyer,Male,Gujarat,Government
+STU1159,Karthik Joshi,Male,Gujarat,Autonomous
+STU1160,Pooja Patel,Female,Delhi,Private
+STU1161,Neha Joshi,Female,Andhra Pradesh,Autonomous
+STU1162,Rahul Das,Female,Gujarat,Private
+STU1163,Rohit Kumar,Male,Gujarat,Autonomous
+STU1164,Aarav Menon,Female,Tamil Nadu,Government
+STU1165,Surya Das,Male,Maharashtra,Autonomous
+STU1166,Divya Iyer,Male,Karnataka,Government
+STU1167,Rohit Patel,Male,Tamil Nadu,Private
+STU1168,Sai Gupta,Male,Kerala,Autonomous
+STU1169,Harsh Prasad,Male,Kerala,Private
+STU1170,Priya Desai,Female,Delhi,Autonomous
+STU1171,Rohit Sharma,Female,Tamil Nadu,Autonomous
+STU1172,Sai Das,Male,Andhra Pradesh,Private
+STU1173,Priya Kumar,Male,West Bengal,Autonomous
+STU1174,Sakshi Nair,Female,West Bengal,Government
+STU1175,Meera Joshi,Female,West Bengal,Private
+STU1176,Aarav Menon,Male,Karnataka,Private
+STU1177,Harsh Joshi,Male,Kerala,Government
+STU1178,Divya Kumar,Male,Delhi,Private
+STU1179,Neha Varma,Male,Gujarat,Autonomous
+STU1180,Ananya Gupta,Male,Punjab,Government
+STU1181,Shreya Joshi,Female,Delhi,Autonomous
+STU1182,Venkatesh Patel,Female,Andhra Pradesh,Autonomous
+STU1183,Vishal Menon,Female,Telangana,Autonomous
+STU1184,Vishal Rao,Female,Kerala,Autonomous
+STU1185,Karthik Kumar,Male,Gujarat,Autonomous
+STU1186,Venkatesh Desai,Male,Tamil Nadu,Autonomous
+STU1187,Vishal Desai,Female,Gujarat,Government
+STU1188,Pranav Rao,Male,Karnataka,Government
+STU1189,Aishwarya Kumar,Male,Punjab,Private
+STU1190,Manish Iyer,Female,Karnataka,Government
+STU1191,Anil Rao,Male,Punjab,Government
+STU1192,Sakshi Naidu,Female,Andhra Pradesh,Government
+STU1193,Surya Singh,Male,Gujarat,Government
+STU1194,Karthik Menon,Male,Maharashtra,Government
+STU1195,Aarav Joshi,Female,Delhi,Government
+STU1196,Rahul Joshi,Female,Punjab,Private
+STU1197,Aishwarya Nair,Female,Delhi,Government
+STU1198,Surya Nair,Male,Maharashtra,Autonomous
+STU1199,Harsh Patel,Female,West Bengal,Private
+STU1200,Pranavi Nair,Female,Punjab,Government
+STU1201,Sakshi Naidu,Female,Maharashtra,Autonomous
+STU1202,Kunal Nair,Male,Gujarat,Government
+STU1203,Venkatesh Joshi,Female,Kerala,Autonomous
+STU1204,Rahul Menon,Male,Tamil Nadu,Private
+STU1205,Neha Rao,Male,Andhra Pradesh,Private
+STU1206,Ananya Varma,Female,Maharashtra,Autonomous
+STU1207,Rahul Joshi,Female,West Bengal,Government
+STU1208,Vishal Joshi,Male,Karnataka,Government
+STU1209,Manish Singh,Female,Andhra Pradesh,Private
+STU1210,Lakshmi Naidu,Female,Kerala,Autonomous
+STU1211,Ananya Gupta,Female,Andhra Pradesh,Private
+STU1212,Shreya Sharma,Male,Delhi,Autonomous
+STU1213,Neha Prasad,Female,Punjab,Private
+STU1214,Pooja Naidu,Male,Maharashtra,Private
+STU1215,Surya Menon,Male,West Bengal,Autonomous
+STU1216,Kavya Kumar,Male,Karnataka,Private
+STU1217,Kavya Desai,Male,Tamil Nadu,Government
+STU1218,Shreya Rao,Female,Telangana,Autonomous
+STU1219,Karthik Menon,Male,Karnataka,Autonomous
+STU1220,Anil Iyer,Male,Karnataka,Autonomous
+STU1221,Shreya Patel,Male,Kerala,Autonomous
+STU1222,Pooja Desai,Female,Punjab,Private
+STU1223,Aishwarya Joshi,Female,Andhra Pradesh,Government
+STU1224,Sai Prasad,Female,Karnataka,Private
+STU1225,Sakshi Rao,Female,West Bengal,Government
+STU1226,Ananya Joshi,Female,Gujarat,Government
+STU1227,Priya Desai,Male,Maharashtra,Autonomous
+STU1228,Priya Reddy,Male,Tamil Nadu,Autonomous
+STU1229,Aishwarya Das,Female,Tamil Nadu,Autonomous
+STU1230,Pooja Kumar,Male,Karnataka,Government
+STU1231,Rohit Varma,Female,West Bengal,Government
+STU1232,Shreya Das,Male,Maharashtra,Autonomous
+STU1233,Venkatesh Reddy,Male,Maharashtra,Government
+STU1234,Ananya Joshi,Male,West Bengal,Private
+STU1235,Divya Nair,Female,Andhra Pradesh,Autonomous
+STU1236,Aishwarya Desai,Female,Maharashtra,Private
+STU1237,Rohit Sharma,Male,West Bengal,Private
+STU1238,Rohit Iyer,Female,West Bengal,Private
+STU1239,Anil Varma,Female,Tamil Nadu,Private
+STU1240,Surya Das,Male,West Bengal,Autonomous
+STU1241,Amit Prasad,Male,Karnataka,Private
+STU1242,Divya Patel,Male,Delhi,Autonomous
+STU1243,Manish Sharma,Male,Punjab,Autonomous
+STU1244,Kunal Singh,Female,Kerala,Private
+STU1245,Pranav Desai,Male,Tamil Nadu,Government
+STU1246,Lakshmi Kumar,Female,Delhi,Government
+STU1247,Rohit Patel,Male,Andhra Pradesh,Private
+STU1248,Manish Menon,Female,Telangana,Private
+STU1249,Rahul Prasad,Male,Andhra Pradesh,Government
+STU1250,Aishwarya Naidu,Male,Karnataka,Autonomous
+STU1251,Nikhil Rao,Male,West Bengal,Autonomous
+STU1252,Manish Rao,Male,Karnataka,Autonomous
+STU1253,Rohit Prasad,Male,Andhra Pradesh,Autonomous
+STU1254,Neha Prasad,Male,Punjab,Private
+STU1255,Rahul Kumar,Female,Delhi,Government
+STU1256,Pranav Reddy,Female,Andhra Pradesh,Private
+STU1257,Aishwarya Singh,Female,Maharashtra,Private
+STU1258,Aarav Nair,Male,West Bengal,Autonomous
+STU1259,Deepa Singh,Female,Karnataka,Government
+STU1260,Shreya Gupta,Male,Tamil Nadu,Government
+STU1261,Lakshmi Varma,Female,Maharashtra,Autonomous
+STU1262,Nikhil Gupta,Male,Tamil Nadu,Private
+STU1263,Priya Gupta,Male,Maharashtra,Private
+STU1264,Rahul Desai,Female,Andhra Pradesh,Private
+STU1265,Suryani,Female,Andhra Pradesh,Government
+STU1266,Aishwarya Joshi,Female,Tamil Nadu,Private
+STU1267,Deepa Gupta,Male,West Bengal,Private
+STU1268,Venkatesh ,Male,Tamil Nadu,Private
+STU1269,Amit Sharma,Male,Telangana,Private
+STU1270,Neha,Female,Punjab,Private
+STU1271,Suma Desai,Female,Maharashtra,Autonomous
+STU1272,Amit Sharma,Male,Telangana,Autonomous
+STU1273,Pooja ,Female,Maharashtra,Government
+STU1274,Siddharth ,Male,Gujarat,Government
+STU1275,Divya Kumar,Male,West Bengal,Government
+STU1276,Ananya Singh,Female,Telangana,Private
+STU1277,Aishwarya ,Female,Maharashtra,Autonomous
+STU1278,Manish Nair,Female,Kerala,Private
+STU1279,Siddharth Prasad,Male,Maharashtra,Private
+STU1280,Rohit Iyer,Male,Tamil Nadu,Private
+STU1281,Surya Rao,Male,Tamil Nadu,Autonomous
+STU1282,Nikhil Nair,Male,Gujarat,Private
+STU1283,Joshi,Male,Delhi,Autonomous
+STU1284,Sakshi Joshi,Female,Maharashtra,Autonomous
+STU1285,Ananya Singh,Female,Tamil Nadu,Government
+STU1286,Manish Das,Male,Punjab,Government
+STU1287,Meera Prasad,Female,West Bengal,Private
+STU1288,Sakshi Gupta,Female,Maharashtra,Government
+STU1289,Kavya Menon,Female,Karnataka,Private
+STU1290,Lakshmi Kumar,Male,West Bengal,Autonomous
+STU1291,Shreya Patel,Female,Tamil Nadu,Private
+STU1292,Rahul Singh,Male,Gujarat,Autonomous
+STU1293,Keeriti Menon,Female,Kerala,Private
+STU1294,Rohit Gupta,Male,Kerala,Government
+STU1295,Manisha Patel,Female,Tamil Nadu,Autonomous
+STU1296,Nikhil Joshi,Male,Tamil Nadu,Government
+STU1297,Harsh Patel,Male,Andhra Pradesh,Government
+STU1298,Ananya Joshi,Female,West Bengal,Private
+STU1299,Harshini Gupta,Female,Gujarat,Autonomous

@@ -1,0 +1,7 @@
+Domain_ID,Domain_Name,Avg_Salary_LPA,Required_Skills
+1,Software Developer,8,"C++, Java, Problem Solving"
+2,Data Analyst,6,"Excel, Python, Power BI"
+3,Web Developer,6.5,"HTML, CSS, JavaScript"
+4,AI/ML Engineer,12,"Python, Machine Learning, Data Science"
+5,Cyber Security,7,"Network Security, Ethical Hacking"
+6,Cloud Engineer,10,"AWS, Azure, DevOps"
